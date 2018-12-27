@@ -46,10 +46,6 @@ This is Test Automation framework designed using Mocha, Chai, and Typescript.
 * Go to Project root directory and run command: `npm update`
 
 ### Sample Test Results
-<p align="center">
-<img src= "./images/test-results.png" width=800 height=600 alt="Mocha, Chai, and Typescript Test Result.png"/>
-</p>
-
 ![Mocha, Chai, and Typescript Test Result](./images/test-results.png?raw=true "Mocha, Chai, and Typescript Test Result")
 
 
