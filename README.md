@@ -50,6 +50,8 @@ This is Test Automation framework designed using Mocha, Chai, and Typescript.
 <img src= "./images/test-results.png" width=800 height=600 alt="Mocha, Chai, and Typescript Test Result.png"/>
 </p>
 
+![Mocha, Chai, and Typescript Test Result](./images/test-results.png?raw=true "Mocha, Chai, and Typescript Test Result")
+
 
 ## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2018/12/26/test-automation-using-mocha-chai-and-typescript/ "Step by Step installation instruction for Beginners")
 
