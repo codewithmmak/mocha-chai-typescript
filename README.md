@@ -5,16 +5,14 @@ This is Test Automation framework designed using Mocha, Chai, and Typescript.
 
 ## Framework Structure
 ```
-├───.circleci                       # This contains CircleCI config.yml file
-├───images                          # This folder contains sample report image
-├───page-objects                    # This folder contains page object, page helper and page contants
-│   ├───common
-│   └───pages
-│       ├───common
-│       └───super-calculator
-├───temp                            # This folder contains JS file which are generated after compiling TypeScript files
-├───test-results                    # This folder contains test result (includes html report and screenshots)
-└───test-suites                     # This folder contains spec/test files
+├───images
+├───page-objects
+├───test-data
+├───test-suites
+├───.gitignore
+├───package.json
+├───README.md
+└───tslint.json
 ```
 
 ## To Get Started

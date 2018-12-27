@@ -15,6 +15,7 @@
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.5",
     "codelyzer": "^4.5.0",
+    "mochawesome": "^3.1.1",
     "rimraf": "^2.6.2",
     "rxjs": "^6.3.3",
     "tslint": "^5.12.0",
@@ -22,7 +23,9 @@
     "zone.js": "^0.8.26"
   },
   "scripts": {
-    "test": "mocha -r ts-node/register test-suites/*.spec.ts"
+    "clean": "rimraf temp/ && rimraf test-results/",
+    "pretest": "npm run clean",
+    "test": "mocha -r ts-node/register test-suites/*.spec.ts --reporter mochawesome --reporter-options reportDir=test-results"
   },
   "keywords": [
     "mocha",
