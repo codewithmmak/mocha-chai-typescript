@@ -49,7 +49,7 @@ This is Test Automation framework designed using Mocha, Chai, and Typescript.
 ![Mocha, Chai, and Typescript Test Result](./images/test-results.png?raw=true "Mocha, Chai, and Typescript Test Result")
 
 
-## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2018/12/26/test-automation-using-mocha-chai-and-typescript/ "Step by Step installation instruction for Beginners")
+## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/test-automation-using-mocha-chai-and-typescript/ "Step by Step installation instruction for Beginners")
 
 
 ## Visit my [Blog](https://qaloop.tk/blog/ "Blog")
