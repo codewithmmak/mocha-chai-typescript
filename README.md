@@ -19,11 +19,8 @@ This is Test Automation framework designed using Mocha, Chai, and Typescript.
 
 ### Pre-requisites
 * Download and install Chrome or Firefox browser.
-* Download and install Node.js:
-  * [Install Node.JS](https://qaloop.tk/blog/install-node-js/ "Install Node.JS")
-* Optional - Download and install any Text Editor like Visual Code/Sublime/Brackets
-  * [Install Visual Studio Code](https://qaloop.tk/blog/install-visual-studio-code/ "Install Visual Studio Code")
-
+* Download and install Node.js
+* Download and install any Text Editor like Visual Code/Sublime/Brackets
 
 ### Setup Scripts 
 * Clone the repository into a folder
@@ -47,9 +44,3 @@ This is Test Automation framework designed using Mocha, Chai, and Typescript.
 
 ### Sample Test Results
 ![Mocha, Chai, and Typescript Test Result](./images/test-results.png?raw=true "Mocha, Chai, and Typescript Test Result")
-
-
-## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/test-automation-using-mocha-chai-and-typescript/ "Step by Step installation instruction for Beginners")
-
-
-## Visit my [Blog](https://qaloop.tk/blog/ "Blog")
