@@ -9,8 +9,8 @@
     "typescript": "^5.0.0"
   },
   "devDependencies": {
-    "@angular/compiler": "^15.0.3",
-    "@angular/core": "^15.0.3",
+    "@angular/compiler": "^16.0.0",
+    "@angular/core": "^16.0.0",
     "@types/chai": "^4.3.4",
     "@types/mocha": "^10.0.1",
     "codelyzer": "^6.0.2",
