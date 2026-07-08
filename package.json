@@ -6,7 +6,7 @@
     "chai": "^6.2.2",
     "mocha": "^11.7.5",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "typescript": "^7.0.0"
   },
   "devDependencies": {
     "@angular/compiler": "^21.1.5",
